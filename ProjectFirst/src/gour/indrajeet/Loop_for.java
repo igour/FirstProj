@@ -13,7 +13,7 @@ public class Loop_for {
 		System.out.println(j);
 		}
 	
-			for (int count=1; count < 10; count ++){
+			for (int count=1; count <= 10; count ++){
 				System.out.println("count var - " +count);
 			}
 	
