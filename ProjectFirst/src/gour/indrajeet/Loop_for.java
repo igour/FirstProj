@@ -4,6 +4,7 @@ public class Loop_for {
 
 	/**
 	 * @param args
+	 * @author igour // testing github
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
